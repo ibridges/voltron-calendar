@@ -1,0 +1,10 @@
+name: Scrape Voltron Calendar
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */3 * *'
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
