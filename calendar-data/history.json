@@ -44616,6 +44616,1885 @@
           "event": "Summon Mastery"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-01T02:53:16.341Z",
+      "regular": [
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Clash for the Throne"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Conquerors' Revival"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Thirst for Battle"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Shadow Invasion"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Dragon Fair"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Clash for the Throne"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Immortal Essence"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pursuit of Evolution"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "The Great Hunt"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Shadow Invasion"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Clash for the Throne"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Immortal Essence"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pursuit of Evolution"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "The Great Hunt"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Dragon Fair"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Doomsday"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pursuit of Experience"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Dragon Fair"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Doomsday"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pursuit of Experience"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Arachne's Swarm"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Arachne's Swarm"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Ruthless Slaughter"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Ancients' Treasure"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "16:30",
+          "status": "ENDS",
+          "event": "Ancients' Treasure"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Ruthless Slaughter"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Rise of the Ancients"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trade Routes"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "16:00",
+          "status": "STARTS",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Rise of the Ancients"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trade Routes"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Hellforge"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Clash of Kingdoms"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of the Chimera"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Clash of Kingdoms"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of the Chimera"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Hellforge"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pharaoh's Bazaar"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of the Basilisk"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Hellforge"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of the Basilisk"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Pharaoh's Bazaar"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Sealed in Flame"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Lava Fountain Trial"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pharaoh's Bazaar"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Lava Fountain Trial"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Authority Rush"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pursuit of Lava Oil"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of Tartaros"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:10",
+          "status": "ENDS",
+          "event": "Sealed in Flame"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Authority Rush"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pursuit of Lava Oil"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of Tartaros"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of Briareus"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of Briareus"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "18:00",
+          "status": "ENDS",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "12 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "12 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "12 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Ragnarök"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Ragnarök"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Ragnarök"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "16 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "16 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "16 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Closing the Gap"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Closing the Gap"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Armageddon"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Armageddon"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Armageddon"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "DARK OMENS"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Sacred Rituals"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Sacred Rituals"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "DARK OMENS"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "23 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "DARK OMENS"
+        },
+        {
+          "date": "23 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "23 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "24 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "25 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "29 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "30 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "31 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "03 NOV tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Sands of Eternity"
+        },
+        {
+          "date": "04 NOV wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Sands of Eternity"
+        },
+        {
+          "date": "04 NOV wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "05 NOV thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "06 NOV fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "10 NOV tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "11 NOV wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "12 NOV thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        }
+      ],
+      "season": [
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Clash for the Throne"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Conquerors' Revival"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Thirst for Battle"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Shadow Invasion"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Dragon Fair"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Clash for the Throne"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Immortal Essence"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pursuit of Evolution"
+        },
+        {
+          "date": "01 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "The Great Hunt"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Shadow Invasion"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Clash for the Throne"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Immortal Essence"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pursuit of Evolution"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "The Great Hunt"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Dragon Fair"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Doomsday"
+        },
+        {
+          "date": "02 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pursuit of Experience"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Dragon Fair"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Doomsday"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pursuit of Experience"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "03 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Arachne's Swarm"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Arachne's Swarm"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Ruthless Slaughter"
+        },
+        {
+          "date": "04 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Ancients' Treasure"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "16:30",
+          "status": "ENDS",
+          "event": "Ancients' Treasure"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Ruthless Slaughter"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Rise of the Ancients"
+        },
+        {
+          "date": "05 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trade Routes"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "16:00",
+          "status": "STARTS",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Sands of Destiny"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Rise of the Ancients"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trade Routes"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Hellforge"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Clash of Kingdoms"
+        },
+        {
+          "date": "06 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of the Chimera"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Clash of Kingdoms"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of the Chimera"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Hellforge"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pharaoh's Bazaar"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "07 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of the Basilisk"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Hellforge"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of the Basilisk"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Pharaoh's Bazaar"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Sealed in Flame"
+        },
+        {
+          "date": "08 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Lava Fountain Trial"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pharaoh's Bazaar"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Lava Fountain Trial"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Authority Rush"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Pursuit of Lava Oil"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of Tartaros"
+        },
+        {
+          "date": "09 OCT fri",
+          "time": "17:10",
+          "status": "ENDS",
+          "event": "Sealed in Flame"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Authority Rush"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Pursuit of Lava Oil"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of Tartaros"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "10 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Trial of Briareus"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Trial of Briareus"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "11 OCT sun",
+          "time": "18:00",
+          "status": "ENDS",
+          "event": "TRIALS OF OLYMPUS"
+        },
+        {
+          "date": "12 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "12 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "12 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Ragnarök"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Ragnarök"
+        },
+        {
+          "date": "13 OCT tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Ragnarök"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "14 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "15 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "16 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "16 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "16 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "17 OCT sat",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Closing the Gap"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Closing the Gap"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "18 OCT sun",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Armageddon"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Armageddon"
+        },
+        {
+          "date": "19 OCT mon",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Lucky Bazaar"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Armageddon"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "20 OCT tue",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "DARK OMENS"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "21 OCT wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Sacred Rituals"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Triumphal Challenge!"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Sacred Rituals"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "DARK OMENS"
+        },
+        {
+          "date": "22 OCT thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "23 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "DARK OMENS"
+        },
+        {
+          "date": "23 OCT fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "23 OCT fri",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "24 OCT sat",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "25 OCT sun",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "29 OCT thu",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "30 OCT fri",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "31 OCT sat",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "03 NOV tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Sands of Eternity"
+        },
+        {
+          "date": "04 NOV wed",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Sands of Eternity"
+        },
+        {
+          "date": "04 NOV wed",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "05 NOV thu",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "06 NOV fri",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "10 NOV tue",
+          "time": "17:00",
+          "status": "STARTS",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "11 NOV wed",
+          "time": "17:00",
+          "status": "CONTINUE",
+          "event": "Summon Mastery"
+        },
+        {
+          "date": "12 NOV thu",
+          "time": "17:00",
+          "status": "ENDS",
+          "event": "Summon Mastery"
+        }
+      ]
     }
   ]
 }
